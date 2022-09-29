@@ -1,4 +1,7 @@
 # python-secp-compare
+discussion at bitcointalk.org
+https://bitcointalk.org/index.php?topic=5409721.20
+
 i upload aprox 50k pubkeys in A and B
 also python script for compare and filter pubkeys
 
